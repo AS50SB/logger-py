@@ -1,0 +1,8 @@
+{
+    "logger_library_class_name": "LOGGER",
+    "version": "Release-4.9.2-Official",
+    "authors": [
+        "AS50SB"   
+    ],
+    "license": "MIT"
+}
