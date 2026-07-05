@@ -124,4 +124,6 @@ SOFTWARE.
 
 ## 最后提醒
 
-**该库尚未开发完全，存在部分bug，请谨慎使用**
+**该库尚未开发完全，存在部分bug，请谨慎使用**  
+***This library will NOT upload to pip!***
+***该库永远不会上传到pip中***
